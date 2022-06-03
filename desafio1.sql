@@ -125,7 +125,7 @@ VALUES
 INSERT INTO SpotifyClone.cancoes (nome_cancao, album_id, duracao_segundos)
 VALUES
   ('Honey', 10, 79),
-  ('Walking And Man', 7, 135),
+  ('Walking And Man', 7, 229),
   ('Young And Father', 6, 197),
   ('Diamond Power', 4, 241),
   ("Lets's Be Silly", 4, 132),

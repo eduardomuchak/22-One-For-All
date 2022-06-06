@@ -128,7 +128,7 @@ VALUES
   ('Walking And Man', 7, 229),
   ('Young And Father', 6, 197),
   ('Diamond Power', 4, 241),
-  ("Lets's Be Silly", 4, 132),
+  ("Let's Be Silly", 4, 132),
   ('I Heard I Want To Bo Alone', 9, 120),
   ('Finding My Traditions', 7, 179),
   ('Without My Love', 6, 111),
